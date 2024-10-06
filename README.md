@@ -14,15 +14,13 @@ To get started with this application, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone [YOUR_REPOSITORY_URL]
+   git clone https://github.com/BhoomiGohil/Scrimba-React-Props.git
    ```
-
-````
 
 2. Navigate into the project directory:
 
    ```bash
-   cd [YOUR_PROJECT_DIRECTORY]
+   cd Scrimba-React-Props
    ```
 
 3. Install the dependencies:
