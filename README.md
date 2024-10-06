@@ -38,4 +38,3 @@ To get started with this application, follow these steps:
 ## Usage
 
 Once the application is running, you will see a simple interface displaying the current user and a welcome message. You can modify the user state in the `MainContent` component to change the displayed name.
-````
