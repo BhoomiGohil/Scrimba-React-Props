@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: whitesmoke;
+}
+
+header {
+  height: 65px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  padding-inline: 20px;
+  background-color: #dce6fd;
+}
+
+section {
+  background-color: #f0f8ff; /* Light background color */
+  border-radius: 8px; /* Rounded corners */
+  padding: 20px; /* Spacing inside the section */
+  text-align: center; /* Center-align text */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+h1 {
+  font-family: "Arial", sans-serif; /* Font style */
+  color: #333; /* Dark text color */
+  font-size: 24px; /* Font size */
+  margin: 0; /* Remove default margin */
+}
